@@ -13,11 +13,12 @@ h2 {
 }
 
 #paragraph2 {
-    color:mistyrose;
+    color:rebeccapurple;
+    font-family: Architects Daughter;
 }
 
 body {
-    background-color: navy;
+    background-color:yellow;
 }
 
 p {
@@ -28,7 +29,6 @@ p {
 ul {
     font-style: italic;
     background-color: yellow;
-    border: 2px solid red;
 }
 
 li:hover {
