@@ -1,0 +1,36 @@
+h1 {
+    font-family: Yellowtail;
+}
+
+h2 {
+    color:mediumvioletred;
+    font-family: Dancing Script;
+}
+
+.heading2 {
+    border: 4px dashed green;
+    padding: 10px;
+}
+
+#paragraph2 {
+    color:mistyrose;
+}
+
+body {
+    background-color: navy;
+}
+
+p {
+    color:palegoldenrod;
+    font-weight: bold;
+}
+
+ul {
+    font-style: italic;
+    background-color: yellow;
+    border: 2px solid red;
+}
+
+li:hover {
+    background-color: green;
+}
